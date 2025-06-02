@@ -68,7 +68,7 @@ Este projeto me permitiu aplicar técnicas avançadas de Excel para criar uma so
 ## 🔗 Acesso
 
 📥 Faça o download do arquivo Excel: `Projeto-estoque.xlsx`  
-📤 Repositório GitHub: https://github.com/KevinSantos99/projeto-controle-de-estoque-excel.git
+📤 Repositório GitHub: https://github.com/KevinSantos99
 
 ---
 
